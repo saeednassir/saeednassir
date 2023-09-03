@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Saeed Nassir AL-Ghrbawy</h1>
 <h3 align="center">A passionate full stack developer from Palestine</h3>
+<img align="right" alt="saeednassir" width="400" height="200" src="https://camo.githubusercontent.com/bb0f0557475da986078316319d9feab3c9435878f4699361c7df8695d039647e/68747470733a2f2f6d656469612e74656e6f722e636f6d2f327579454e526d6955743041414141432f636f64696e672e676966"/>
+
 
 <p align="left"> <a href="https://twitter.com/alghrbawysaeed" target="blank"><img src="https://img.shields.io/twitter/follow/alghrbawysaeed?logo=twitter&style=for-the-badge" alt="alghrbawysaeed" /></a> </p>
-<img align="right" src="https://camo.githubusercontent.com/bb0f0557475da986078316319d9feab3c9435878f4699361c7df8695d039647e/68747470733a2f2f6d656469612e74656e6f722e636f6d2f327579454e526d6955743041414141432f636f64696e672e676966"/>
+
 - 📫 How to reach me **saeedalghrbawy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
